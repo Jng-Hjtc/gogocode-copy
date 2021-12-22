@@ -22,6 +22,8 @@ Let's show you how to select and modify code with our API
 
 杰尼龟在B分支上学习git命令
 
+杰尼龟的学习从未停止
+
 ### In
 
 ```javascript
